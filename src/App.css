@@ -13,13 +13,6 @@ body {
   min-height: 100vh;
 }
 
-/* Lớp phủ trong suốt bảo vệ mắt, KHÔNG làm mờ ảnh nền */
-.garden-overlay {
-  min-height: 100vh;
-  background: rgba(0, 0, 0, 0.2); 
-  padding: 30px 16px;
-}
-
 .garden-app {
   max-width: 680px;
   margin: 0 auto;
