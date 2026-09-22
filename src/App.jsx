@@ -3,10 +3,10 @@ import './App.css';
 
 // Các giai đoạn dùng ảnh tự cung cấp trong thư mục public/
 const TREE_STAGES = [
-  { minWater: 0, stage: 'Sleeping Seedling', img: '/tree-stage1.png' },
-  { minWater: 3, stage: 'Growing Sprout', img: '/tree-stage2.png' },
-  { minWater: 6, stage: 'Blooming Flower', img: '/tree-stage3.png' },
-  { minWater: 10, stage: 'Majestic Ancient Tree!', img: '/tree-stage4.png' }
+  { minWater: 0, stage: 'Sleeping Seedling', img: '/tree-stage1.jpg' },
+  { minWater: 3, stage: 'Growing Sprout', img: '/tree-stage2.jpg' },
+  { minWater: 6, stage: 'Blooming Flower', img: '/tree-stage3.jpg' },
+  { minWater: 10, stage: 'Majestic Ancient Tree!', img: '/tree-stage4.jpg' }
 ];
 
 function App() {
